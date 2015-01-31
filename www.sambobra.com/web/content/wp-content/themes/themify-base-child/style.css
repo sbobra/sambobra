@@ -173,20 +173,21 @@ STRUCTURE
 *************************************************************************************/
 /* main page width */
 .pagewidth {
-  width: 1160px;
+  width: 70%;
   margin: 0 auto;
 }
 
 /* body (middle container) */
 #body {
   margin: 0 auto;
+  float: center;
   max-width: 100%;
 }
 
 /* content */
 #content {
-  width: 858px;
-  float: left;
+  width: 70%;
+  float: center;
   padding: 5% 0 3%;
 }
 
@@ -416,6 +417,7 @@ PAGE
   font-size: 2.6em;
   line-height: 1.2em;
   letter-spacing: -1px;
+  display: none;
 }
 
 /*
@@ -1120,3 +1122,6 @@ TRANSITION / ANIMATION
     transform: translateY(-5px) scale(1.07,1.07);
     }
 }
+/************************************************************************************
+CUSTOM
+*************************************************************************************/
