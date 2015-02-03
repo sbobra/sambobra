@@ -129,7 +129,7 @@ input, textarea, select, input[type=search], button {
   font-family: inherit;
 }
 textarea, input[type=text], input[type=password], input[type=search], input[type=email], input[type=url] {
-  background: #f3f3f3;
+  background: #ffffff;
   border: solid 1px #ddd;
   padding: 6px 10px;
   border-radius: 5px;
@@ -173,7 +173,7 @@ STRUCTURE
 *************************************************************************************/
 /* main page width */
 .pagewidth {
-  width: 70%;
+  width: 50%;
   margin: 0 auto;
 }
 
@@ -186,14 +186,14 @@ STRUCTURE
 
 /* content */
 #content {
-  width: 70%;
+  width: 50%;
   float: left;
   padding: 5% 0 3%;
 }
 
 /* sidebar */
 #sidebar {
-  width: 252px;
+  width: 152px;
   float: right;
   padding: 5% 0 3%;
 }
@@ -291,7 +291,7 @@ MAIN NAVIGATION
 ================================================ */
 #main-nav {
   width: 100%;
-  margin: 40px 0 0;
+  margin: 0px 0 0;
 }
 #main-nav li {
   position: relative;
@@ -342,7 +342,7 @@ MAIN NAVIGATION
 #main-nav ul .current_page_item a:hover,
 #main-nav .current-menu-item ul a:hover,
 #main-nav ul .current-menu-item a:hover {
-  background: #F3F3F3;
+  background: #ffffff;
   color: #000;
 }
 /* dropdown ul */
