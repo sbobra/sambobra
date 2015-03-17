@@ -1,4 +1,3 @@
-
 <?php
 /**
 * Enqueues child theme stylesheet, loading first the parent theme stylesheet.

@@ -35,12 +35,12 @@
 			<?php endif; ?>
 
 			<div id="header_icons">
-				<a href="http://sambobra.com" target="_blank" alt="Twitter"><img src="/wp-content/themes/themify-base-child/images/twitter.png" width="25" height="25" style="margin-right:15px;"/>
-				<a href="http://sambobra.com" target="_blank" alt="Instagram"><img src="/wp-content/themes/themify-base-child/images/instagram.png" width="25" height="25" style="margin-right:15px;"/>
-				<a href="http://sambobra.com" target="_blank" alt="Tumblr"><img src="/wp-content/themes/themify-base-child/images/tumblr.png" width="25" height="25" style="margin-right:15px;"/>
-				<a href="http://sambobra.com" target="_blank" alt="LinkedIn"><img src="/wp-content/themes/themify-base-child/images/linkedin.png" width="25" height="25" style="margin-right:15px;"/>
-				<a href="http://sambobra.com" target="_blank" alt="VSCO"><img src="/wp-content/themes/themify-base-child/images/vsco.png" width="25" height="25" style="margin-right:15px;"/>
-				<a href="http://sambobra.com" target="_blank" alt="Facebook"><img src="/wp-content/themes/themify-base-child/images/facebook.png" width="25" height="25"/>
+				<a href="http://www.twitter.com/samwritescode" target="_blank" alt="Twitter"><img src="/wp-content/themes/themify-base-child/images/twitter.png" width="25" height="25" style="margin-right:15px;"/>
+				<a href="http://www.instagram.com/samwritescode" target="_blank" alt="Instagram"><img src="/wp-content/themes/themify-base-child/images/instagram.png" width="25" height="25" style="margin-right:15px;"/>
+				<a href="http://sam-droid.tumblr.com" target="_blank" alt="Tumblr"><img src="/wp-content/themes/themify-base-child/images/tumblr.png" width="25" height="25" style="margin-right:15px;"/>
+				<a href="http://www.linkedin.com/in/sbobra" target="_blank" alt="LinkedIn"><img src="/wp-content/themes/themify-base-child/images/linkedin.png" width="25" height="25" style="margin-right:15px;"/>
+				<a href="http://s-a-m.vsco.co" target="_blank" alt="VSCO"><img src="/wp-content/themes/themify-base-child/images/vsco.png" width="25" height="25" style="margin-right:15px;"/>
+				<a href="http://facebook.com/sbobra" target="_blank" alt="Facebook"><img src="/wp-content/themes/themify-base-child/images/facebook.png" width="25" height="25"/>
 			</div>
 
 			<nav>
